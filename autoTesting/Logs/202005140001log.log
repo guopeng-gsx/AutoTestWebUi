@@ -1,0 +1,6 @@
+2020-05-14 00:01:08,119 - chrome - INFO - 通过id定位，元素是username
+2020-05-14 00:01:08,301 - chrome - INFO - 通过id定位，元素是password
+2020-05-14 00:01:08,401 - chrome - INFO - 通过name定位，元素是submit
+2020-05-14 00:01:59,060 - chrome - INFO - 通过id定位，元素是username
+2020-05-14 00:01:59,205 - chrome - INFO - 通过id定位，元素是password
+2020-05-14 00:01:59,293 - chrome - INFO - 通过name定位，元素是submit
